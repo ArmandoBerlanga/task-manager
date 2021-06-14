@@ -1,6 +1,6 @@
 # task-manager
 
-## Project setup
+## Project setup SE NECESITA CUANDO SE DESCARGA DE GITHUB
 ```
 npm install
 ```
